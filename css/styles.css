@@ -596,6 +596,11 @@ pre code {
   margin-left: auto;
 }
 
+.wistia_responsive_wrapper {
+  border-style: solid;
+  border-width: thick;
+  border-color: #fff;
+}
 .col-container {
     display: table; /* Make the container element behave like a table */
     width: 60%; /* Set full-width to expand the whole page */
@@ -607,21 +612,27 @@ pre code {
 .column {
     display: table-cell; /* Make elements inside the container behave like table cells */
     border-style: solid;
-    border-color: #2196f3;
+    border-width: thick;
+    border-color: #37474f;
+    background-color: #2196f3;
+    color: #fff;
     padding: 3.75rem;
 
 }
-
+.fig {
+  background-color: #2196f3;
+  color: #fff;
+}
 .factoid {
   width: 300px;
   height: 75px;
   display: grid;
   justify-content: center;
   margin-top: 20px;
-  padding-right: 15px;
-  padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  border-style: solid;
+  border-color: #13191e;
 }
 
 .factoid2 {
@@ -630,10 +641,10 @@ pre code {
   display: grid;
   justify-content: center;
   margin-top: 20px;
-  padding-right: 15px;
-  padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  border-style: solid;
+  border-color: #13191e;
 }
 
 .factoid3 {
@@ -642,10 +653,10 @@ pre code {
   display: grid;
   justify-content: center;
   margin-top: 20px;
-  padding-right: 15px;
-  padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  border-style: solid;
+  border-color: #13191e;
 }
 
 .factoid4 {
@@ -654,10 +665,10 @@ pre code {
   display: grid;
   justify-content: center;
   margin-top: 20px;
-  padding-right: 15px;
-  padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  border-style: solid;
+  border-color: #13191e;
 }
 
 .factoid5 {
@@ -666,10 +677,10 @@ pre code {
   display: grid;
   justify-content: center;
   margin-top: 20px;
-  padding-right: 15px;
-  padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  border-style: solid;
+  border-color: #13191e;
 }
 
 .factoid6 {
@@ -678,10 +689,10 @@ pre code {
   display: grid;
   justify-content: center;
   margin-top: 20px;
-  padding-right: 15px;
-  padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  border-style: solid;
+  border-color: #13191e;
 }
 
 .factoid7 {
@@ -690,10 +701,10 @@ pre code {
   display: grid;
   justify-content: center;
   margin-top: 20px;
-  padding-right: 15px;
-  padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  border-style: solid;
+  border-color: #13191e;
 }
 
 .image-wrapper {
